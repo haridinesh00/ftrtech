@@ -11,7 +11,7 @@ Input : dict = {"ale", "apple", "monkey", "plea"}
 Output : apple
 ```
 
-Input:
+**Input:**
 
 The first line of input contains an integer T denoting the no of test cases . Then T test cases follow. Each test case contains an integer x denoting the no of words in the dictionary. Then in the next line are x space separated strings denoting the contents of the dictionary.  Then in the next line is a string 'str'.
 
